@@ -1,0 +1,102 @@
+.container1{
+    width: 24%;
+    margin-top: 100px;
+    margin-left: 300px; 
+    margin-bottom:150px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: rgb(190, 241, 233);
+    display: inline-block;
+}
+.container2{
+    width: 24%;
+    margin-top: 100px;
+    margin-left: 20px; 
+    margin-bottom:150px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: rgb(190, 241, 233);
+    display: inline-block;
+}
+img{
+    height: 30%;
+    width: 30%;
+    display:inline;
+}
+.box{
+    width: 80%;
+    margin-left: 150px;
+    margin-bottom: 150px;
+    border: 1px solid white;
+    background-color:rgb(216, 209, 233);
+    display: inline-block;
+
+}
+.box1{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 90px; 
+    margin-bottom: 100px;
+    padding: 40px;
+    border: 1px solid plum;
+    background-color:white;
+    display: inline-block;
+}
+.box2{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 20px;
+    padding: 40px;
+    border: 1px solid plum;
+    background-color:white;
+    display: inline-block;
+}
+.box3{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 20px; 
+    padding: 40px;
+    border: 1px solid plum;
+    background-color:white;
+    display: inline-block;
+}
+.big{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: black;
+}
+.block{
+    width: 88%;
+    margin-bottom: 50px;
+    padding: 60px;
+    color: azure;
+    border: 1px solid grey;
+    background-color: rgb(21, 6, 41);
+    display: inline-block;
+}
+.block1{
+    width: 27%;
+    padding: 24px;
+    color: azure;
+    border: 1px solid grey;
+    background-color: rgb(21, 6, 41);
+    display: inline-block;
+}
+.block2{
+    width: 28%;
+    margin-left: 12px;
+    padding: 24px;
+    color: azure;
+    border: 1px solid grey;
+    background-color: rgb(21, 6, 41);
+    display: inline-block;
+}
+.block3{
+    width: 27%;
+    margin-left: 12px;
+    padding: 24px;
+    color: azure;
+    border: 1px solid grey;
+    background-color:rgb(21, 6, 41);
+    display: inline-block;
+}
